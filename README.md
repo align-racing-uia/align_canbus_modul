@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# align_canbus_modul
+# align_canbus_module
 =======
 <h1 align="center"> Align Racing 2021 </h1> <br>
 <p align="center">
