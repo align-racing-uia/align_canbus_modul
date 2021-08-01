@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c118d1e-67ea-4dff-8a65-5b3728caac95" name="Changes" comment="Move everything in main.">
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/3D-Components/0ZCM0010FF2G.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/3D-Components/CSTCE_V-1.STEP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/3D-Components/JAE IL-WX Series 30-pin.STEP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/3D-Components/MCP25625T-E_ML.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/3D-Components/SMLP36.STEP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/ACM-pcb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/ACM-pcb-cache.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/ACM-pcb-rescue.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/ACM-pcb-rescue.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/ACM-pcb.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/ACM-pcb.kicad_pcb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/ACM-pcb.kicad_pcb-bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/ACM-pcb.net" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/ACM-pcb.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/ACM-pcb.sch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/ACM-pcb.sch-bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/ACM-pcb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/ACM_Y2020V0.1-rescue.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/BOM/ACM-pcb_25022020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/BOM/ACM_Y2020V0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/BOM/ACM_Y2020V0_270719.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Datasheets/ATmega328PB - Complete Datasheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Datasheets/Hirose DF9-series B2B connectors.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Datasheets/MCP25625-CAN-Controller-Data-Sheet-20005282C.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Datasheets/TC2030-IDC-NL.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Exports/ACM_Y2020V0.1.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Exports/ACM_Y2020V0.1.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Exports/ACM_Y2020V0.1.wrl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Exports/Renderings/ACM_Y2020_Back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Exports/Renderings/ACM_Y2020_Black_Side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Exports/Renderings/ACM_Y2020_Front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Exports/acm_y2020v0.1.wrl.sldprt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/09.01.02.kicad_pcb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/09.01.02.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/3D-Components/0ZCM0010FF2G.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/3D-Components/CSTCE_V-1.STEP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/3D-Components/JAE IL-WX Series 30-pin.STEP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/3D-Components/MCP25625T-E_ML.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/3D-Components/SMLP36.STEP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/ACM 11.01 ferdig.kicad_pcb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/ACM 11.01 ferdig.kicad_pcb-bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/ACM 11.01 ferdig.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/ACM-pcb.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/ACM_Y2020V0.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/ACM_Y2020V0.1-cache.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/ACM_Y2020V0.1-rescue.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/ACM_Y2020V0.1-rescue.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/ACM_Y2020V0.1.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/ACM_Y2020V0.1.kicad_pcb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/ACM_Y2020V0.1.kicad_pcb-bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/ACM_Y2020V0.1.net" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/ACM_Y2020V0.1.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/ACM_Y2020V0.1.sch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/ACM_Y2020V0.1.sch-bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/ACM_Y2020V0.2.net" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/ACM_Y2020V0.2.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/BOM/ACM_Y2020V0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/BOM/ACM_Y2020V0_270719.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Datasheets/ATmega328PB - Complete Datasheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Datasheets/Hirose DF9-series B2B connectors.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Datasheets/MCP25625-CAN-Controller-Data-Sheet-20005282C.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Datasheets/TC2030-IDC-NL.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Exports/ACM_Y2020V0.1.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Exports/ACM_Y2020V0.1.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Exports/ACM_Y2020V0.1.wrl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Exports/Renderings/ACM_Y2020_Back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Exports/Renderings/ACM_Y2020_Black_Side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Exports/Renderings/ACM_Y2020_Front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Exports/acm_y2020v0.1.wrl.sldprt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/CSTNE16M0V530000R0/CSTNE16M0V530000R0.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/CSTNE16M0V530000R0/CSTNE16M0V530000R0.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/CSTNE16M0V530000R0/CSTNE16M0V530000R0.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/CSTNE16M0V530000R0/CSTNE16M0V530000R0.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/Header/Connector_PinSocket_0.8mm.pretty/PinSocket_2x15_P0.08mm_Vertical_SMD.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/IL-WX-10-pole/IL-WX-10SB-VF-BE.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/IL-WX-10-pole/IL-WX-10SB-VF-BE.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/IL-WX-10-pole/IL-WX-10SB-VF-BE.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/IL-WX-10-pole/IL-WX-10SB-VF-BE.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/IL-WX-10-pole/ILWX10SBVFBE.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/IL-WX-10-pole/ILWX30SBVF.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/MCP25625T-E_ML/MCP25625T-E_ML.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/MCP25625T-E_ML/MCP25625T-E_ML.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/MCP25625T-E_ML/MCP25625T-E_ML.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/MCP25625T-E_ML/QFN65P600X600X100-29N-D.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/NCV890430/NCV890430MW50TXG.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/NCV890430/NCV890430MW50TXG.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/NCV890430/NCV890430MW50TXG.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/NCV890430/NCV890430MW50TXG.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/NCV890430/SON65P300X300X100-9N.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/SMLP36RGB2W3R/ROHM-1510-(0604).kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/SMLP36RGB2W3R/SMLP36RGB2W3R.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/SMLP36RGB2W3R/SMLP36RGB2W3R.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/SMLP36RGB2W3R/SMLP36RGB2W3R.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/SMLP36RGB2W3R/SMLP36RGB2W3R.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/SMLP36RGB2W3R/SMLP36RGB2W3R.pretty/ILWX10SBVFBE.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/SMLP36RGB2W3R/SMLP36RGB2W3R.pretty/SMLP36RGB2W3R.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/TC2030-MCP-NL.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/TC2030-MCP-NL.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/TC2030-MCP-NL.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Lib/TC2030-MCP-NL.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/Schematic PDFs/ACM_Y2020_V0.1_Schematic.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/fp-4F01.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/fp-DF4C.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/fp-info-cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/noname.kicad_pcb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/noname.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Finnish/sym-lib-table" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Gerber/ACM-pcb-B_Cu.gbr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Gerber/ACM-pcb-B_Mask.gbr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Gerber/ACM-pcb-B_Paste.gbr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Gerber/ACM-pcb-B_SilkS.gbr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Gerber/ACM-pcb-Edge_Cuts.gbr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Gerber/ACM-pcb-F_Cu.gbr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Gerber/ACM-pcb-F_Mask.gbr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Gerber/ACM-pcb-F_Paste.gbr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Gerber/ACM-pcb-F_SilkS.gbr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Gerber/ACM-pcb.drl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Gerber/ACM2020-pcb-B.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/CSTNE16M0V530000R0/CSTNE16M0V530000R0.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/CSTNE16M0V530000R0/CSTNE16M0V530000R0.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/CSTNE16M0V530000R0/CSTNE16M0V530000R0.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/CSTNE16M0V530000R0/CSTNE16M0V530000R0.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/Header/Connector_PinSocket_0.8mm.pretty/PinSocket_2x15_P0.08mm_Vertical_SMD.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/IL-WX-10-pole/IL-WX-10SB-VF-BE.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/IL-WX-10-pole/IL-WX-10SB-VF-BE.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/IL-WX-10-pole/IL-WX-10SB-VF-BE.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/IL-WX-10-pole/IL-WX-10SB-VF-BE.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/IL-WX-10-pole/ILWX10SBVFBE.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/IL-WX-10-pole/ILWX30SBVF.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/MCP25625T-E_ML/MCP25625T-E_ML.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/MCP25625T-E_ML/MCP25625T-E_ML.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/MCP25625T-E_ML/MCP25625T-E_ML.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/MCP25625T-E_ML/QFN65P600X600X100-29N-D.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/NCV890430/NCV890430MW50TXG.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/NCV890430/NCV890430MW50TXG.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/NCV890430/NCV890430MW50TXG.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/NCV890430/NCV890430MW50TXG.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/NCV890430/SON65P300X300X100-9N.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/SMLP36RGB2W3R/ROHM-1510-(0604).kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/SMLP36RGB2W3R/SMLP36RGB2W3R.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/SMLP36RGB2W3R/SMLP36RGB2W3R.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/SMLP36RGB2W3R/SMLP36RGB2W3R.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/SMLP36RGB2W3R/SMLP36RGB2W3R.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/SMLP36RGB2W3R/SMLP36RGB2W3R.pretty/ILWX10SBVFBE.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/SMLP36RGB2W3R/SMLP36RGB2W3R.pretty/SMLP36RGB2W3R.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/TC2030-MCP-NL.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/TC2030-MCP-NL.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/TC2030-MCP-NL.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Lib/TC2030-MCP-NL.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/Schematic PDFs/ACM_Y2020_V0.1_Schematic.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/fp-info-cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Mohammad_edition/sym-lib-table" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_Symbol and footprint/ACM_2020_Footprintandsymbol.pretty/ACM_2020_Footprint_wo_silk.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/3D-Components/0ZCM0010FF2G.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/3D-Components/CSTCE_V-1.STEP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/3D-Components/JAE IL-WX Series 30-pin.STEP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/3D-Components/MCP25625T-E_ML.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/3D-Components/MCP25625T-E_ML.wrl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/3D-Components/SMLP36.STEP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/ACM-pcb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/ACM-pcb-cache.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/ACM-pcb-rescue.bck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/ACM-pcb-rescue.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/ACM-pcb-rescue.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/ACM-pcb.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/ACM-pcb.kicad_pcb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/ACM-pcb.kicad_pcb-bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/ACM-pcb.net" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/ACM-pcb.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/ACM-pcb.sch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/ACM-pcb.sch-bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/ACM-pcb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/ACM_2020_V2.pretty/ASMBTTF00A20B.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/ACM_2020_V2.pretty/Can_MCP2517FD_SOIC.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/ACM_2020_V2.pretty/D_Zener_KDZV5.6B_SOD-123.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/ACM_2020_V2.pretty/D_schotky_MBR0520LT1G.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/ACM_2020_V2.pretty/IL-WX-30SB-VF-BE.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/ACM_2020_V2.pretty/Pmos_DMP3099L-13.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/ACM_2020_V2.pretty/QFN65P600X600X100-29N-D.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/ACM_2020_V2.pretty/Resonator_CSTNE20M0V51Z000R0.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/ACM_2020_V2.pretty/SOIC_MCP2542FD.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/ACM_Y2020V0.1-rescue.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/BOM/ACM-pcb_25022020.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/BOM/ACM_Y2020V0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/BOM/ACM_Y2020V0_270719.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Datasheets/ATmega328PB - Complete Datasheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Datasheets/Hirose DF9-series B2B connectors.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Datasheets/MCP25625-CAN-Controller-Data-Sheet-20005282C.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Datasheets/TC2030-IDC-NL.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Evaluation/Trace through component.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Exports/ACM_Y2020V0.1.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Exports/ACM_Y2020V0.1.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Exports/ACM_Y2020V0.1.wrl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Exports/Renderings/ACM_Y2020_Back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Exports/Renderings/ACM_Y2020_Black_Side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Exports/Renderings/ACM_Y2020_Front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Exports/Renderings/V1.1/ACM-pcb_front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Exports/Renderings/V1.1/ACM-pcb_front_noperspect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Exports/Renderings/V1.1/ACM-pcb_rear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Exports/Renderings/V1.1/ACM-pcb_rear_noperspect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Exports/acm_y2020v0.1.wrl.sldprt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/09.01.02.kicad_pcb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/09.01.02.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/3D-Components/0ZCM0010FF2G.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/3D-Components/CSTCE_V-1.STEP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/3D-Components/JAE IL-WX Series 30-pin.STEP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/3D-Components/MCP25625T-E_ML.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/3D-Components/SMLP36.STEP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/ACM 11.01 ferdig.kicad_pcb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/ACM 11.01 ferdig.kicad_pcb-bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/ACM 11.01 ferdig.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/ACM-pcb.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/ACM_Y2020V0.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/ACM_Y2020V0.1-cache.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/ACM_Y2020V0.1-rescue.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/ACM_Y2020V0.1-rescue.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/ACM_Y2020V0.1.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/ACM_Y2020V0.1.kicad_pcb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/ACM_Y2020V0.1.kicad_pcb-bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/ACM_Y2020V0.1.net" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/ACM_Y2020V0.1.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/ACM_Y2020V0.1.sch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/ACM_Y2020V0.1.sch-bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/ACM_Y2020V0.2.net" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/ACM_Y2020V0.2.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/BOM/ACM_Y2020V0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/BOM/ACM_Y2020V0_270719.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Datasheets/ATmega328PB - Complete Datasheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Datasheets/Hirose DF9-series B2B connectors.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Datasheets/MCP25625-CAN-Controller-Data-Sheet-20005282C.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Datasheets/TC2030-IDC-NL.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Exports/ACM_Y2020V0.1.step" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Exports/ACM_Y2020V0.1.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Exports/ACM_Y2020V0.1.wrl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Exports/Renderings/ACM_Y2020_Back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Exports/Renderings/ACM_Y2020_Black_Side.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Exports/Renderings/ACM_Y2020_Front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Exports/acm_y2020v0.1.wrl.sldprt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/CSTNE16M0V530000R0/CSTNE16M0V530000R0.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/CSTNE16M0V530000R0/CSTNE16M0V530000R0.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/CSTNE16M0V530000R0/CSTNE16M0V530000R0.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/CSTNE16M0V530000R0/CSTNE16M0V530000R0.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/Header/Connector_PinSocket_0.8mm.pretty/PinSocket_2x15_P0.08mm_Vertical_SMD.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/IL-WX-10-pole/IL-WX-10SB-VF-BE.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/IL-WX-10-pole/IL-WX-10SB-VF-BE.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/IL-WX-10-pole/IL-WX-10SB-VF-BE.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/IL-WX-10-pole/IL-WX-10SB-VF-BE.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/IL-WX-10-pole/ILWX10SBVFBE.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/IL-WX-10-pole/ILWX30SBVF.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/MCP25625T-E_ML/MCP25625T-E_ML.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/MCP25625T-E_ML/MCP25625T-E_ML.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/MCP25625T-E_ML/MCP25625T-E_ML.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/MCP25625T-E_ML/QFN65P600X600X100-29N-D.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/NCV890430/NCV890430MW50TXG.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/NCV890430/NCV890430MW50TXG.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/NCV890430/NCV890430MW50TXG.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/NCV890430/NCV890430MW50TXG.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/NCV890430/SON65P300X300X100-9N.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/SMLP36RGB2W3R/ROHM-1510-(0604).kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/SMLP36RGB2W3R/SMLP36RGB2W3R.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/SMLP36RGB2W3R/SMLP36RGB2W3R.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/SMLP36RGB2W3R/SMLP36RGB2W3R.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/SMLP36RGB2W3R/SMLP36RGB2W3R.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/SMLP36RGB2W3R/SMLP36RGB2W3R.pretty/ILWX10SBVFBE.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/SMLP36RGB2W3R/SMLP36RGB2W3R.pretty/SMLP36RGB2W3R.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/TC2030-MCP-NL.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/TC2030-MCP-NL.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/TC2030-MCP-NL.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Lib/TC2030-MCP-NL.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/Schematic PDFs/ACM_Y2020_V0.1_Schematic.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/fp-4F01.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/fp-DF4C.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/fp-info-cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/noname.kicad_pcb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/noname.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Finnish/sym-lib-table" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Gerber/ACM-pcb-B_Cu.gbr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Gerber/ACM-pcb-B_Mask.gbr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Gerber/ACM-pcb-B_Paste.gbr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Gerber/ACM-pcb-B_SilkS.gbr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Gerber/ACM-pcb-Edge_Cuts.gbr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Gerber/ACM-pcb-F_Cu.gbr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Gerber/ACM-pcb-F_Mask.gbr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Gerber/ACM-pcb-F_Paste.gbr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Gerber/ACM-pcb-F_SilkS.gbr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Gerber/ACM-pcb-NPTH.drl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Gerber/ACM-pcb-PTH.drl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Gerber/ACM_CAN2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/ASMB-TTF0-0A20B/ASMB-TTF0-0A20B.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/ASMB-TTF0-0A20B/ASMB-TTF0-0A20B.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/ASMB-TTF0-0A20B/ASMB-TTF0-0A20B.stl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/ASMB-TTF0-0A20B/ASMB-TTF0-0A20B.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/ASMB-TTF0-0A20B/ASMB-TTF0-0A20B.wrl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/ASMB-TTF0-0A20B/ASMBTTF00A20B.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/CSTNE16M0V530000R0/CSTNE16M0V530000R0.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/CSTNE16M0V530000R0/CSTNE16M0V530000R0.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/CSTNE16M0V530000R0/CSTNE16M0V530000R0.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/CSTNE16M0V530000R0/CSTNE16M0V530000R0.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/Header/Connector_PinSocket_0.8mm.pretty/PinSocket_2x15_P0.08mm_Vertical_SMD.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/IL-WX-10-pole/IL-WX-10SB-VF-BE.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/IL-WX-10-pole/IL-WX-10SB-VF-BE.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/IL-WX-10-pole/IL-WX-10SB-VF-BE.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/IL-WX-10-pole/IL-WX-10SB-VF-BE.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/IL-WX-10-pole/ILWX10SBVFBE.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/IL-WX-10-pole/ILWX30SBVF.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/MCP25625T-E_ML/MCP25625T-E_ML.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/MCP25625T-E_ML/MCP25625T-E_ML.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/MCP25625T-E_ML/MCP25625T-E_ML.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/MCP25625T-E_ML/QFN65P600X600X100-29N-D.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/NCV890430/NCV890430MW50TXG.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/NCV890430/NCV890430MW50TXG.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/NCV890430/NCV890430MW50TXG.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/NCV890430/NCV890430MW50TXG.stp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/NCV890430/SON65P300X300X100-9N.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/SMLP36RGB2W3R/ROHM-1510-(0604).kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/SMLP36RGB2W3R/SMLP36RGB2W3R.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/SMLP36RGB2W3R/SMLP36RGB2W3R.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/SMLP36RGB2W3R/SMLP36RGB2W3R.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/SMLP36RGB2W3R/SMLP36RGB2W3R.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/SMLP36RGB2W3R/SMLP36RGB2W3R.pretty/ILWX10SBVFBE.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/SMLP36RGB2W3R/SMLP36RGB2W3R.pretty/SMLP36RGB2W3R.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/TC2030-MCP-NL.dcm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/TC2030-MCP-NL.kicad_mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/TC2030-MCP-NL.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Lib/TC2030-MCP-NL.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/Schematic PDFs/ACM_Y2020_V0.1_Schematic.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/fp-info-cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/fp-lib-table" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/01. KiCAD/ACM_2020_V2.0_edition/sym-lib-table" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/02. Eagle/ACM_Y2019V0.1.s#1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/ACM_pcb/02. Eagle/ACM_Y2019V0.1.sch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AR20_ACM/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ACM" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1w8lHa5LwI57GDmvWnrSUwvZueb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c118d1e-67ea-4dff-8a65-5b3728caac95" name="Changes" comment="" />
+      <created>1627848009884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627848009884</updated>
+      <workItem from="1627848014300" duration="214000" />
+      <workItem from="1627848245888" duration="4000" />
+    </task>
+    <task id="LOCAL-00001" summary="Move everything in main.">
+      <created>1627848136835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627848136835</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Move everything in main." />
+    <option name="LAST_COMMIT_MESSAGE" value="Move everything in main." />
+  </component>
+</project>
